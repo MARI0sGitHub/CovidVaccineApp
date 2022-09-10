@@ -1,0 +1,6 @@
+framework module Pods_vaccine {
+  umbrella header "Pods-vaccine-umbrella.h"
+
+  export *
+  module * { export * }
+}
